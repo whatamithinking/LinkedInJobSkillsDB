@@ -1,0 +1,6 @@
+lxml==4.1.1
+user_agent==0.1.9
+SQLAlchemy==1.2.2
+tqdm==4.19.5
+requests==2.18.4
+beautifulsoup4==4.6.0
