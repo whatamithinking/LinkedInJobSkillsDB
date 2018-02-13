@@ -11,6 +11,8 @@ Database of job skills scraped from the LinkedIn skills directory. Stored in an 
 
 ###### Notes
 
+The database is incomplete. Being polite makes scraping 35,000+ pages a slow business, but the tools are here to finish the job. 
+
 Tested with Python 3.4.8
 
 ## Getting Started
